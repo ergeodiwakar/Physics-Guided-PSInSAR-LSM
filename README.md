@@ -29,6 +29,11 @@ The contribution is **physics-guided feature construction**, rather than a new p
 - **Spatial reference:** UTM Zone 45N (EPSG:32645); susceptibility modelling uses a common 12.5 m analysis grid.
 
 ## Research methodology
+## Research methodology
+
+![Methodological framework of physics-guided PS-InSAR landslide susceptibility mapping](Methodology.jpg)
+
+*Figure 1. Workflow of the proposed physics-guided PS-InSAR framework, including data acquisition, preprocessing, IRS, HKFI and SNDR construction, machine-learning evaluation, and landslide susceptibility map generation.*
 
 1. **Data harmonization:** Align conditioning-factor rasters to a common grid, determine valid spatial support, and derive slope, aspect, curvature, topographic position, stream power and topographic wetness proxies.
 2. **PS-InSAR and geometric interpretation:** Use processed LOS velocities and radar/terrain geometry to estimate an apparent downslope-constrained velocity, with a stabilization parameter for weakly observable geometry; restrict unsupported deformation rather than treating missing signal as slope stability.
