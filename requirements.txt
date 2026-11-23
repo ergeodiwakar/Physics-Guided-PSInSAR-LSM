@@ -1,0 +1,22 @@
+# Indicative dependency list detected from the provided notebook.
+# Version compatibility has not been validated in a clean environment.
+# Original notebook metadata: Python 3.8.19; install compatible historical versions if necessary.
+jupyterlab
+numpy
+pandas
+scipy
+matplotlib
+rasterio
+fiona
+geopandas
+shapely
+pyproj
+pyogrio
+whitebox
+earthengine-api
+requests
+scikit-learn
+xgboost
+statsmodels
+h5py
+joblib

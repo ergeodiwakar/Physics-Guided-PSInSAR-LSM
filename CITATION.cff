@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Please cite the peer-reviewed article when using this research code."
+title: "Physics-Guided-PSInSAR-LSM"
+type: software
+authors:
+  - family-names: Khadka
+    given-names: Diwakar
+  - family-names: "Singh Pradhan"
+    given-names: "Ananta Man"
+  - family-names: Zhang
+    given-names: Jie
+  - family-names: Sharma
+    given-names: Atma
+  - family-names: Lu
+    given-names: Meng
+repository-code: "https://github.com/ergeodiwakar/Physics-Guided-PSInSAR-LSM"
+preferred-citation:
+  type: article
+  title: "Integrating physics-guided Persistent Scatterer Interferometry (PS-InSAR) derived indices and machine learning for landslide susceptibility mapping"
+  authors:
+    - family-names: Khadka
+      given-names: Diwakar
+    - family-names: "Singh Pradhan"
+      given-names: "Ananta Man"
+    - family-names: Zhang
+      given-names: Jie
+    - family-names: Sharma
+      given-names: Atma
+    - family-names: Lu
+      given-names: Meng
+  journal: "Advances in Space Research"
+  year: 2026
+  volume: 78
+  start: 8772
+  end: 8800
+  doi: 10.1016/j.asr.2026.08.058
