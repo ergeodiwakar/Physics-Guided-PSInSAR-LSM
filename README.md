@@ -29,7 +29,6 @@ The contribution is **physics-guided feature construction**, rather than a new p
 - **Spatial reference:** UTM Zone 45N (EPSG:32645); susceptibility modelling uses a common 12.5 m analysis grid.
 
 ## Research methodology
-## Research methodology
 
 ![Methodological framework of physics-guided PS-InSAR landslide susceptibility mapping](Methodology.jpg)
 
