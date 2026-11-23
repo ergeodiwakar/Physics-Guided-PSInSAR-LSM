@@ -2,7 +2,7 @@
 
 **Physics-guided PS-InSAR-derived indices and machine learning for landslide susceptibility mapping**
 
-![First-page screenshot of the published article](assets/paper-first-page.png)
+![First-page screenshot of the published article](Screenshot%202026-11-23%20161056.png)
 
 *Published-article first-page preview. The article is copyright-protected; reuse of this image should be checked against the publisher's terms. See the DOI for the version of record.*
 
